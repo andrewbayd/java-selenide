@@ -1,1 +1,3 @@
-Test project for online courses using Selenide framework
+# JAVA SELENIDE
+
+Test project for online courses using Java and Selenide
